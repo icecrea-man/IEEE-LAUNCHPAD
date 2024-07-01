@@ -1,8 +1,8 @@
-# Full Name 
+# Sakeena Fathima F
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I have keen interest on electronics and embedded programming.I have gained concepts on embedded programming by doing projects during my course. I am proficient in C, python and matlab programing.  
 
 
 ## Portfolio Highlights
@@ -16,27 +16,24 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led a team during project
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Eager to meet different persons and also learn from them
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Conducting workshops for juniors to explore the opportunities and requirements in electronics to become an embedded developer
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- By training or mentoring young tech inthusiasts to grow in a tech ecosystem
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Maintaining and accessing open source tools and codes
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
 #### Highly Visible Technical Content:
 
