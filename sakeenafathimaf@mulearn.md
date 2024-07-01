@@ -34,10 +34,6 @@
 - Maintaining and accessing open source tools and codes
 
 
-#### Highly Visible Technical Content:
-
-- linkedin post on internship
-
 #### Highly Used Software Tools:
 
 - Visual Studio Code
