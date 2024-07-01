@@ -37,19 +37,14 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- linkedin post on internship
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Visual Studio Code
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---
