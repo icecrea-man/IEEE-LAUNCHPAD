@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Miniproject**  | Description of the project 1                                              | [Hosted Link 1]()    | [Repo Link 1]([https://github.com/icecrea-man/miniproject])             |
+| **Miniproject**  | website with three functionalities                                             | [Hosted Link 1]()    | [Repo Link 1]([https://github.com/icecrea-man/miniproject])             |
 
 #### Leadership and Influence:
 
